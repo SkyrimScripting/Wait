@@ -1,0 +1,17 @@
+{
+    // created by vscode papyrus-lang papyrus.skyrimSpecialEdition.generateProject
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Skyrim SE",
+            "type": "papyrus",
+            "request": "attach",
+            "game": "skyrimSpecialEdition"
+        },
+        {
+            "name": "(Windows) Attach",
+            "type": "cppvsdbg",
+            "request": "attach",
+        }
+    ]
+}
