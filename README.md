@@ -16,7 +16,7 @@ Enable this plugin in MO2 and you'll get a prompt to continue.
 
 This blocks all SKSE plugins from loading until you press OK.
 
-> _Note: this is, itself, implemented as an SKSE plugin. It runs first because it is named `!!!SkyrimStartupMessageBox.dll` and SKSE loads plugins in alphebetical order based on .dll name._
+> _Note: this is, itself, implemented as an SKSE plugin. It runs first because it is named `!!!!!.SkyrimScripting.Wait.dll` and SKSE loads plugins in alphebetical order based on .dll name._
 
 ![Screenshot](Images/screenshot.png)
 
